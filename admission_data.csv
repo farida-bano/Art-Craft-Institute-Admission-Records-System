@@ -1,0 +1,3 @@
+admission_id,admission_date,student_name,father_name,age,contact,email,address,course,course_level,days,time_slot,days_per_week,course_fee,discount,total_fee,duration,timestamp
+ART20251024233546,2025-10-24,Farida Bano,Mushtaq Hussain,18,3345467854,asma123@gmail.com,Karachi Pakistan,Cooking - Advanced,Advanced,"Monday, Wednesday, Friday",5:00 PM - 7:00 PM,3 days,7500,0,7500,3 months,2025-10-24 23:35:46
+ART20251025121928,2025-10-25,Asma Ali,Mushtaq Hussain,18,03345467854,asma123@gmail.com,north karachi,Cooking - Basic,Basic,"Tuesday, Thursday",2:00 PM - 4:00 PM,2 days,5500,0,5500,3 months,2025-10-25 12:19:28
